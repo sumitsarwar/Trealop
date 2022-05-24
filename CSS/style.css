@@ -1,0 +1,184 @@
+.navber_menu{
+    background-color: #53d3de!important;
+}
+.navbar-brand{
+    color: rgb(255, 255, 255)!important;
+    font-size: 40px;
+    font-weight: bold;
+}
+.contact_icon i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.contact_icon i:hover {
+    color: #53d3de;
+    transition: 0.5s;
+}
+.social_icon i{
+    font-size: 16px;
+    margin-right: 10px;
+}
+.social_icon :hover{
+    color:  #53d3de;
+    transition: 0.5s;
+}
+.menu_item {
+    text-decoration: none!important;
+    font-size: 18px;
+    color: antiquewhite!important;
+    padding: 30px 20px;
+}
+.menu_item:hover{
+    background: #1D8B94;
+    transition: 0.5s;
+}
+.hero_section{
+     background-image: url("/image/download\ \(1\).jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 500px;
+}
+.overlay{
+    background-color: rgba(0,  0, 0, 0.4);
+    height: 500px;
+    width: 100%;
+    position: absolute;
+}
+.content{
+    position: absolute;    
+    top: 50%;
+    transform: translatey(-50%);
+    color: white;
+}
+.top_p{
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+.heading{
+    font-size: 40px;
+    letter-spacing: 5px;
+    margin: 10px 0;
+    
+}
+.bottom_p{
+    margin-bottom: 25px;
+}
+.btn_filled{
+    background: #53d3de;
+    color: white;
+    font-size:15px;
+    margin: 15px 10px 20px 0px;
+    padding: 10px 32px;
+    border: none;
+}
+.btn_filled:hover{
+    background-color: transparent;
+    outline: 1px solid white;
+    transition: 0.3s;
+}
+.btn_outline{
+    background: transparent;
+    color: white;
+    font-size:15px;
+    margin: 15px 10px 20px 10px;
+    padding: 10px 32px;
+    outline: 1px solid white;
+    border: none;
+}
+.btn_outline:hover{
+    outline: none;  
+    background-color: #53d3de;
+    transition: 0.3s;    
+}
+.all_btn{
+    background: #53d3de;
+    color: white;
+    font-size:15px;
+    margin: 15px 10px 20px 0px;
+    padding: 10px 32px;
+    border: none;
+}
+.card_hover:hover{
+    outline: 1px solid #53d3de;
+    transition: 0.5s;
+}
+.all_btn:hover{
+    background-color: transparent;
+    color: #474747;
+    outline: 1px solid #53d3de;
+    transition: 0.3s;
+}
+.border:hover{
+     border: 1px sloid #53d3de;;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.after_midd{
+    /* height: 100px; */
+    background: #1d8b94;
+}
+.btn{
+    background: #53d3de;
+    color: white;
+    font-size:15px;
+    margin: 10px 10px 20px 0px;
+    padding: 10px 32px;
+    border: none;
+}
+
+.profile{
+    background-image: url(/image/profile.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.profile_img{
+    border-radius: 50%;
+}
+.contact_area{
+    background-color: whitesmoke;
+    /* height: 100px; */
+}
+.contact_area i{
+    color: #53d3de;
+}
+
+.footer{
+    background-color: #1e1e1e;
+    /* height: 500px; */
+}
+.footer hr{
+    color: #53d3de;
+}
+
+.soc_fb:hover{
+    color: #53d3de;
+    transition: 0.3s;
+}
+.soc_twt:hover{
+    color: #53d3de;
+    transition: 0.3s;
+}
+.soc_in:hover{
+    color: #53d3de;
+    transition: 0.3s;
+    
+}
+.dropdown-menu{
+    background: #53d3de;
+}
+.dropdown-item{
+    color: antiquewhite;
+}
+.gallery img{
+    height: 225px;
+    width: 250px;
+    border-radius: 50%;
+}
